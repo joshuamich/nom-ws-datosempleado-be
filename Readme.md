@@ -1,4 +1,4 @@
-# Back-End REST API - Gestión de Colaboradores (`nom-wa-datosempleado-be`)
+# Back-End REST API - Gestión de Colaboradores (`nom-ws-datosempleado-be`)
  
 API RESTful desarrollada utilizando **Node.js**, **Express.js** y **Prisma ORM**.
 Esta api tiene como finalidad listar los colaboradores almacenados en la base de datos.
@@ -24,8 +24,8 @@ Nota: para esta aplicacion se utilizo Prisma ORM, pero no se utilizaron las migr
 
  **Clona el repositorio:**
    desde la terminal
-   git clone [https://github.com/joshuamich/nom-wa-datosempleado-be.git](https://github.com/joshuamich/nom-wa-datosempleado-be.git)
-   cd nom-wa-datosempleado-be
+   git clone [https://github.com/joshuamich/nom-ws-datosempleado-be.git](https://github.com/joshuamich/nom-ws-datosempleado-be.git)
+   cd nom-ws-datosempleado-be
 
 ## Configuración del Entorno (`.env`)
 
